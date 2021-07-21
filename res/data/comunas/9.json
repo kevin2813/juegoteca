@@ -1,0 +1,386 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "9201",
+            "COMUNA_NOMBRE": "Angol",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9102",
+            "COMUNA_NOMBRE": "Carahue",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9121",
+            "COMUNA_NOMBRE": "Cholchol",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9202",
+            "COMUNA_NOMBRE": "Collipulli",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9103",
+            "COMUNA_NOMBRE": "Cunco",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9203",
+            "COMUNA_NOMBRE": "Curacaut\u00edn",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9104",
+            "COMUNA_NOMBRE": "Curarrehue",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9204",
+            "COMUNA_NOMBRE": "Ercilla",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9105",
+            "COMUNA_NOMBRE": "Freire",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9106",
+            "COMUNA_NOMBRE": "Galvarino",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9107",
+            "COMUNA_NOMBRE": "Gorbea",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9108",
+            "COMUNA_NOMBRE": "Lautaro",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9109",
+            "COMUNA_NOMBRE": "Loncoche",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9205",
+            "COMUNA_NOMBRE": "Lonquimay",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9206",
+            "COMUNA_NOMBRE": "Los Sauces",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9207",
+            "COMUNA_NOMBRE": "Lumaco",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9110",
+            "COMUNA_NOMBRE": "Melipeuco",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9111",
+            "COMUNA_NOMBRE": "Nueva Imperial",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9112",
+            "COMUNA_NOMBRE": "Padre las Casas",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9113",
+            "COMUNA_NOMBRE": "Perquenco",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9114",
+            "COMUNA_NOMBRE": "Pitrufqu\u00e9n",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9115",
+            "COMUNA_NOMBRE": "Puc\u00f3n",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9208",
+            "COMUNA_NOMBRE": "Pur\u00e9n",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9209",
+            "COMUNA_NOMBRE": "Renaico",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9116",
+            "COMUNA_NOMBRE": "Saavedra",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9101",
+            "COMUNA_NOMBRE": "Temuco",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9117",
+            "COMUNA_NOMBRE": "Teodoro Schmidt",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9118",
+            "COMUNA_NOMBRE": "Tolt\u00e9n",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9210",
+            "COMUNA_NOMBRE": "Traigu\u00e9n",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9211",
+            "COMUNA_NOMBRE": "Victoria",
+            "COMUNA_PROVINCIA_ID": "92"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "92",
+            "PROVINCIA_NOMBRE": "Malleco",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9119",
+            "COMUNA_NOMBRE": "Vilc\u00fan",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "9120",
+            "COMUNA_NOMBRE": "Villarrica",
+            "COMUNA_PROVINCIA_ID": "91"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "91",
+            "PROVINCIA_NOMBRE": "Caut\u00edn",
+            "PROVINCIA_REGION_ID": "9"
+        }
+    }
+]

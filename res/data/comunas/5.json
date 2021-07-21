@@ -1,0 +1,446 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "5602",
+            "COMUNA_NOMBRE": "Algarrobo",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5402",
+            "COMUNA_NOMBRE": "Cabildo",
+            "COMUNA_PROVINCIA_ID": "54"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "54",
+            "PROVINCIA_NOMBRE": "Petorca",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5302",
+            "COMUNA_NOMBRE": "Calle Larga",
+            "COMUNA_PROVINCIA_ID": "53"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "53",
+            "PROVINCIA_NOMBRE": "Los Andes",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5603",
+            "COMUNA_NOMBRE": "Cartagena",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5102",
+            "COMUNA_NOMBRE": "Casablanca",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5702",
+            "COMUNA_NOMBRE": "Catemu",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5103",
+            "COMUNA_NOMBRE": "Conc\u00f3n",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5604",
+            "COMUNA_NOMBRE": "El Quisco",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5605",
+            "COMUNA_NOMBRE": "El Tabo",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5503",
+            "COMUNA_NOMBRE": "Hijuelas",
+            "COMUNA_PROVINCIA_ID": "55"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "55",
+            "PROVINCIA_NOMBRE": "Quillota",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5104",
+            "COMUNA_NOMBRE": "Juan Fern\u00e1ndez",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5502",
+            "COMUNA_NOMBRE": "La Calera",
+            "COMUNA_PROVINCIA_ID": "55"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "55",
+            "PROVINCIA_NOMBRE": "Quillota",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5504",
+            "COMUNA_NOMBRE": "La Cruz",
+            "COMUNA_PROVINCIA_ID": "55"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "55",
+            "PROVINCIA_NOMBRE": "Quillota",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5401",
+            "COMUNA_NOMBRE": "La Ligua",
+            "COMUNA_PROVINCIA_ID": "54"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "54",
+            "PROVINCIA_NOMBRE": "Petorca",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5802",
+            "COMUNA_NOMBRE": "Limache",
+            "COMUNA_PROVINCIA_ID": "58"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "58",
+            "PROVINCIA_NOMBRE": "Marga Marga",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5703",
+            "COMUNA_NOMBRE": "Llay Llay",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5301",
+            "COMUNA_NOMBRE": "Los Andes",
+            "COMUNA_PROVINCIA_ID": "53"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "53",
+            "PROVINCIA_NOMBRE": "Los Andes",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5506",
+            "COMUNA_NOMBRE": "Nogales",
+            "COMUNA_PROVINCIA_ID": "55"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "55",
+            "PROVINCIA_NOMBRE": "Quillota",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5803",
+            "COMUNA_NOMBRE": "Olmu\u00e9",
+            "COMUNA_PROVINCIA_ID": "58"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "58",
+            "PROVINCIA_NOMBRE": "Marga Marga",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5704",
+            "COMUNA_NOMBRE": "Panquehue",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5403",
+            "COMUNA_NOMBRE": "Papudo",
+            "COMUNA_PROVINCIA_ID": "54"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "54",
+            "PROVINCIA_NOMBRE": "Petorca",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5404",
+            "COMUNA_NOMBRE": "Petorca",
+            "COMUNA_PROVINCIA_ID": "54"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "54",
+            "PROVINCIA_NOMBRE": "Petorca",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5105",
+            "COMUNA_NOMBRE": "Puchuncav\u00ed",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5705",
+            "COMUNA_NOMBRE": "Putaendo",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5501",
+            "COMUNA_NOMBRE": "Quillota",
+            "COMUNA_PROVINCIA_ID": "55"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "55",
+            "PROVINCIA_NOMBRE": "Quillota",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5801",
+            "COMUNA_NOMBRE": "Quilpu\u00e9",
+            "COMUNA_PROVINCIA_ID": "58"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "58",
+            "PROVINCIA_NOMBRE": "Marga Marga",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5107",
+            "COMUNA_NOMBRE": "Quintero",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5303",
+            "COMUNA_NOMBRE": "Rinconada",
+            "COMUNA_PROVINCIA_ID": "53"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "53",
+            "PROVINCIA_NOMBRE": "Los Andes",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5601",
+            "COMUNA_NOMBRE": "San Antonio",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5304",
+            "COMUNA_NOMBRE": "San Esteban",
+            "COMUNA_PROVINCIA_ID": "53"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "53",
+            "PROVINCIA_NOMBRE": "Los Andes",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5701",
+            "COMUNA_NOMBRE": "San Felipe",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5706",
+            "COMUNA_NOMBRE": "Santa Mar\u00eda",
+            "COMUNA_PROVINCIA_ID": "57"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "57",
+            "PROVINCIA_NOMBRE": "San Felipe de Aconcagua",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5606",
+            "COMUNA_NOMBRE": "Santo Domingo",
+            "COMUNA_PROVINCIA_ID": "56"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "56",
+            "PROVINCIA_NOMBRE": "San Antonio",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5101",
+            "COMUNA_NOMBRE": "Valpara\u00edso",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5804",
+            "COMUNA_NOMBRE": "Villa Alemana",
+            "COMUNA_PROVINCIA_ID": "58"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "58",
+            "PROVINCIA_NOMBRE": "Marga Marga",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5109",
+            "COMUNA_NOMBRE": "Vi\u00f1a del Mar",
+            "COMUNA_PROVINCIA_ID": "51"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "51",
+            "PROVINCIA_NOMBRE": "Valpara\u00edso",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "5405",
+            "COMUNA_NOMBRE": "Zapallar",
+            "COMUNA_PROVINCIA_ID": "54"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "54",
+            "PROVINCIA_NOMBRE": "Petorca",
+            "PROVINCIA_REGION_ID": "5"
+        }
+    }
+]

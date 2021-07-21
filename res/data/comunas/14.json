@@ -1,0 +1,146 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "14102",
+            "COMUNA_NOMBRE": "Corral",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14202",
+            "COMUNA_NOMBRE": "Futrono",
+            "COMUNA_PROVINCIA_ID": "142"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "142",
+            "PROVINCIA_NOMBRE": "Ranco",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14201",
+            "COMUNA_NOMBRE": "La Uni\u00f3n",
+            "COMUNA_PROVINCIA_ID": "142"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "142",
+            "PROVINCIA_NOMBRE": "Ranco",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14203",
+            "COMUNA_NOMBRE": "Lago Ranco",
+            "COMUNA_PROVINCIA_ID": "142"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "142",
+            "PROVINCIA_NOMBRE": "Ranco",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14103",
+            "COMUNA_NOMBRE": "Lanco",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14104",
+            "COMUNA_NOMBRE": "Los Lagos",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14105",
+            "COMUNA_NOMBRE": "M\u00e1fil",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14106",
+            "COMUNA_NOMBRE": "Mariquina",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14107",
+            "COMUNA_NOMBRE": "Paillaco",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14108",
+            "COMUNA_NOMBRE": "Panguipulli",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14204",
+            "COMUNA_NOMBRE": "R\u00edo Bueno",
+            "COMUNA_PROVINCIA_ID": "142"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "142",
+            "PROVINCIA_NOMBRE": "Ranco",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "14101",
+            "COMUNA_NOMBRE": "Valdivia",
+            "COMUNA_PROVINCIA_ID": "141"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "141",
+            "PROVINCIA_NOMBRE": "Valdivia",
+            "PROVINCIA_REGION_ID": "14"
+        }
+    }
+]

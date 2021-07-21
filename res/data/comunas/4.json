@@ -1,0 +1,182 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "4103",
+            "COMUNA_NOMBRE": "Andacollo",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4202",
+            "COMUNA_NOMBRE": "Canela",
+            "COMUNA_PROVINCIA_ID": "42"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "42",
+            "PROVINCIA_NOMBRE": "Choapa",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4302",
+            "COMUNA_NOMBRE": "Combarbal\u00e1",
+            "COMUNA_PROVINCIA_ID": "43"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "43",
+            "PROVINCIA_NOMBRE": "Limar\u00ed",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4102",
+            "COMUNA_NOMBRE": "Coquimbo",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4201",
+            "COMUNA_NOMBRE": "Illapel",
+            "COMUNA_PROVINCIA_ID": "42"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "42",
+            "PROVINCIA_NOMBRE": "Choapa",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4104",
+            "COMUNA_NOMBRE": "La Higuera",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4101",
+            "COMUNA_NOMBRE": "La Serena",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4203",
+            "COMUNA_NOMBRE": "Los Vilos",
+            "COMUNA_PROVINCIA_ID": "42"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "42",
+            "PROVINCIA_NOMBRE": "Choapa",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4303",
+            "COMUNA_NOMBRE": "Monte Patria",
+            "COMUNA_PROVINCIA_ID": "43"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "43",
+            "PROVINCIA_NOMBRE": "Limar\u00ed",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4301",
+            "COMUNA_NOMBRE": "Ovalle",
+            "COMUNA_PROVINCIA_ID": "43"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "43",
+            "PROVINCIA_NOMBRE": "Limar\u00ed",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4105",
+            "COMUNA_NOMBRE": "Paihuano",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4304",
+            "COMUNA_NOMBRE": "Punitaqui",
+            "COMUNA_PROVINCIA_ID": "43"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "43",
+            "PROVINCIA_NOMBRE": "Limar\u00ed",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4305",
+            "COMUNA_NOMBRE": "R\u00edo Hurtado",
+            "COMUNA_PROVINCIA_ID": "43"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "43",
+            "PROVINCIA_NOMBRE": "Limar\u00ed",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4204",
+            "COMUNA_NOMBRE": "Salamanca",
+            "COMUNA_PROVINCIA_ID": "42"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "42",
+            "PROVINCIA_NOMBRE": "Choapa",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "4106",
+            "COMUNA_NOMBRE": "Vicu\u00f1a",
+            "COMUNA_PROVINCIA_ID": "41"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "41",
+            "PROVINCIA_NOMBRE": "Elqui",
+            "PROVINCIA_REGION_ID": "4"
+        }
+    }
+]

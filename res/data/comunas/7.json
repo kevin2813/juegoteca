@@ -1,0 +1,362 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "7201",
+            "COMUNA_NOMBRE": "Cauquenes",
+            "COMUNA_PROVINCIA_ID": "72"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "72",
+            "PROVINCIA_NOMBRE": "Cauquenes",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7202",
+            "COMUNA_NOMBRE": "Chanco",
+            "COMUNA_PROVINCIA_ID": "72"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "72",
+            "PROVINCIA_NOMBRE": "Cauquenes",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7402",
+            "COMUNA_NOMBRE": "Colb\u00fan",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7102",
+            "COMUNA_NOMBRE": "Constituci\u00f3n",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7103",
+            "COMUNA_NOMBRE": "Curepto",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7301",
+            "COMUNA_NOMBRE": "Curic\u00f3",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7104",
+            "COMUNA_NOMBRE": "Empedrado",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7302",
+            "COMUNA_NOMBRE": "Huala\u00f1\u00e9",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7303",
+            "COMUNA_NOMBRE": "Licant\u00e9n",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7401",
+            "COMUNA_NOMBRE": "Linares",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7403",
+            "COMUNA_NOMBRE": "Longav\u00ed",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7105",
+            "COMUNA_NOMBRE": "Maule",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7304",
+            "COMUNA_NOMBRE": "Molina",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7404",
+            "COMUNA_NOMBRE": "Parral",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7106",
+            "COMUNA_NOMBRE": "Pelarco",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7203",
+            "COMUNA_NOMBRE": "Pelluhue",
+            "COMUNA_PROVINCIA_ID": "72"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "72",
+            "PROVINCIA_NOMBRE": "Cauquenes",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7107",
+            "COMUNA_NOMBRE": "Pencahue",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7305",
+            "COMUNA_NOMBRE": "Rauco",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7405",
+            "COMUNA_NOMBRE": "Retiro",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7108",
+            "COMUNA_NOMBRE": "R\u00edo Claro",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7306",
+            "COMUNA_NOMBRE": "Romeral",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7307",
+            "COMUNA_NOMBRE": "Sagrada Familia",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7109",
+            "COMUNA_NOMBRE": "San Clemente",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7406",
+            "COMUNA_NOMBRE": "San Javier",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7110",
+            "COMUNA_NOMBRE": "San Rafael",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7101",
+            "COMUNA_NOMBRE": "Talca",
+            "COMUNA_PROVINCIA_ID": "71"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "71",
+            "PROVINCIA_NOMBRE": "Talca",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7308",
+            "COMUNA_NOMBRE": "Teno",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7309",
+            "COMUNA_NOMBRE": "Vichuqu\u00e9n",
+            "COMUNA_PROVINCIA_ID": "73"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "73",
+            "PROVINCIA_NOMBRE": "Curic\u00f3",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7407",
+            "COMUNA_NOMBRE": "Villa Alegre",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "7408",
+            "COMUNA_NOMBRE": "Yerbas Buenas",
+            "COMUNA_PROVINCIA_ID": "74"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "74",
+            "PROVINCIA_NOMBRE": "Linares",
+            "PROVINCIA_REGION_ID": "7"
+        }
+    }
+]

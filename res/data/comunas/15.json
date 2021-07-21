@@ -1,0 +1,50 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "15101",
+            "COMUNA_NOMBRE": "Arica",
+            "COMUNA_PROVINCIA_ID": "151"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "151",
+            "PROVINCIA_NOMBRE": "Arica",
+            "PROVINCIA_REGION_ID": "15"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "15102",
+            "COMUNA_NOMBRE": "Camarones",
+            "COMUNA_PROVINCIA_ID": "151"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "151",
+            "PROVINCIA_NOMBRE": "Arica",
+            "PROVINCIA_REGION_ID": "15"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "15202",
+            "COMUNA_NOMBRE": "General Lagos",
+            "COMUNA_PROVINCIA_ID": "152"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "152",
+            "PROVINCIA_NOMBRE": "Parinacota",
+            "PROVINCIA_REGION_ID": "15"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "15201",
+            "COMUNA_NOMBRE": "Putre",
+            "COMUNA_PROVINCIA_ID": "152"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "152",
+            "PROVINCIA_NOMBRE": "Parinacota",
+            "PROVINCIA_REGION_ID": "15"
+        }
+    }
+]

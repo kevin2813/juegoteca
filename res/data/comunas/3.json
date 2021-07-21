@@ -1,0 +1,110 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "3302",
+            "COMUNA_NOMBRE": "Alto del Carmen",
+            "COMUNA_PROVINCIA_ID": "33"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "33",
+            "PROVINCIA_NOMBRE": "Huasco",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3102",
+            "COMUNA_NOMBRE": "Caldera",
+            "COMUNA_PROVINCIA_ID": "31"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "31",
+            "PROVINCIA_NOMBRE": "Copiap\u00f3",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3201",
+            "COMUNA_NOMBRE": "Cha\u00f1aral",
+            "COMUNA_PROVINCIA_ID": "32"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "32",
+            "PROVINCIA_NOMBRE": "Cha\u00f1aral",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3101",
+            "COMUNA_NOMBRE": "Copiap\u00f3",
+            "COMUNA_PROVINCIA_ID": "31"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "31",
+            "PROVINCIA_NOMBRE": "Copiap\u00f3",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3202",
+            "COMUNA_NOMBRE": "Diego de Almagro",
+            "COMUNA_PROVINCIA_ID": "32"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "32",
+            "PROVINCIA_NOMBRE": "Cha\u00f1aral",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3303",
+            "COMUNA_NOMBRE": "Freirina",
+            "COMUNA_PROVINCIA_ID": "33"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "33",
+            "PROVINCIA_NOMBRE": "Huasco",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3304",
+            "COMUNA_NOMBRE": "Huasco",
+            "COMUNA_PROVINCIA_ID": "33"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "33",
+            "PROVINCIA_NOMBRE": "Huasco",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3103",
+            "COMUNA_NOMBRE": "Tierra Amarilla",
+            "COMUNA_PROVINCIA_ID": "31"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "31",
+            "PROVINCIA_NOMBRE": "Copiap\u00f3",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "3301",
+            "COMUNA_NOMBRE": "Vallenar",
+            "COMUNA_PROVINCIA_ID": "33"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "33",
+            "PROVINCIA_NOMBRE": "Huasco",
+            "PROVINCIA_REGION_ID": "3"
+        }
+    }
+]

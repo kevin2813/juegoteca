@@ -1,0 +1,134 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "12202",
+            "COMUNA_NOMBRE": "Ant\u00e1rtica",
+            "COMUNA_PROVINCIA_ID": "122"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "122",
+            "PROVINCIA_NOMBRE": "Ant\u00e1rtica Chilena",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12201",
+            "COMUNA_NOMBRE": "Cabo de Hornos",
+            "COMUNA_PROVINCIA_ID": "122"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "122",
+            "PROVINCIA_NOMBRE": "Ant\u00e1rtica Chilena",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12102",
+            "COMUNA_NOMBRE": "Laguna Blanca",
+            "COMUNA_PROVINCIA_ID": "121"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "121",
+            "PROVINCIA_NOMBRE": "Magallanes",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12401",
+            "COMUNA_NOMBRE": "Natales",
+            "COMUNA_PROVINCIA_ID": "124"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "124",
+            "PROVINCIA_NOMBRE": "\u00daltima Esperanza",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12301",
+            "COMUNA_NOMBRE": "Porvenir",
+            "COMUNA_PROVINCIA_ID": "123"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "123",
+            "PROVINCIA_NOMBRE": "Tierra del Fuego",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12302",
+            "COMUNA_NOMBRE": "Primavera",
+            "COMUNA_PROVINCIA_ID": "123"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "123",
+            "PROVINCIA_NOMBRE": "Tierra del Fuego",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12101",
+            "COMUNA_NOMBRE": "Punta Arenas",
+            "COMUNA_PROVINCIA_ID": "121"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "121",
+            "PROVINCIA_NOMBRE": "Magallanes",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12103",
+            "COMUNA_NOMBRE": "R\u00edo Verde",
+            "COMUNA_PROVINCIA_ID": "121"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "121",
+            "PROVINCIA_NOMBRE": "Magallanes",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12104",
+            "COMUNA_NOMBRE": "San Gregorio",
+            "COMUNA_PROVINCIA_ID": "121"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "121",
+            "PROVINCIA_NOMBRE": "Magallanes",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12303",
+            "COMUNA_NOMBRE": "Timaukel",
+            "COMUNA_PROVINCIA_ID": "123"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "123",
+            "PROVINCIA_NOMBRE": "Tierra del Fuego",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "12402",
+            "COMUNA_NOMBRE": "Torres del Paine",
+            "COMUNA_PROVINCIA_ID": "124"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "124",
+            "PROVINCIA_NOMBRE": "\u00daltima Esperanza",
+            "PROVINCIA_REGION_ID": "12"
+        }
+    }
+]

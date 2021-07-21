@@ -1,0 +1,626 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "13502",
+            "COMUNA_NOMBRE": "Alhu\u00e9",
+            "COMUNA_PROVINCIA_ID": "135"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "135",
+            "PROVINCIA_NOMBRE": "Melipilla",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13402",
+            "COMUNA_NOMBRE": "Buin",
+            "COMUNA_PROVINCIA_ID": "134"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "134",
+            "PROVINCIA_NOMBRE": "Maipo",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13403",
+            "COMUNA_NOMBRE": "Calera de Tango",
+            "COMUNA_PROVINCIA_ID": "134"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "134",
+            "PROVINCIA_NOMBRE": "Maipo",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13102",
+            "COMUNA_NOMBRE": "Cerrillos",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13103",
+            "COMUNA_NOMBRE": "Cerro Navia",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13301",
+            "COMUNA_NOMBRE": "Colina",
+            "COMUNA_PROVINCIA_ID": "133"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "133",
+            "PROVINCIA_NOMBRE": "Chacabuco",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13104",
+            "COMUNA_NOMBRE": "Conchal\u00ed",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13503",
+            "COMUNA_NOMBRE": "Curacav\u00ed",
+            "COMUNA_PROVINCIA_ID": "135"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "135",
+            "PROVINCIA_NOMBRE": "Melipilla",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13105",
+            "COMUNA_NOMBRE": "El Bosque",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13602",
+            "COMUNA_NOMBRE": "El Monte",
+            "COMUNA_PROVINCIA_ID": "136"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "136",
+            "PROVINCIA_NOMBRE": "Talagante",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13106",
+            "COMUNA_NOMBRE": "Estaci\u00f3n Central",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13107",
+            "COMUNA_NOMBRE": "Huechuraba",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13108",
+            "COMUNA_NOMBRE": "Independencia",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13603",
+            "COMUNA_NOMBRE": "Isla de Maipo",
+            "COMUNA_PROVINCIA_ID": "136"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "136",
+            "PROVINCIA_NOMBRE": "Talagante",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13109",
+            "COMUNA_NOMBRE": "La Cisterna",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13110",
+            "COMUNA_NOMBRE": "La Florida",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13111",
+            "COMUNA_NOMBRE": "La Granja",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13112",
+            "COMUNA_NOMBRE": "La Pintana",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13113",
+            "COMUNA_NOMBRE": "La Reina",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13302",
+            "COMUNA_NOMBRE": "Lampa",
+            "COMUNA_PROVINCIA_ID": "133"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "133",
+            "PROVINCIA_NOMBRE": "Chacabuco",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13114",
+            "COMUNA_NOMBRE": "Las Condes",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13115",
+            "COMUNA_NOMBRE": "Lo Barnechea",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13116",
+            "COMUNA_NOMBRE": "Lo Espejo",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13117",
+            "COMUNA_NOMBRE": "Lo Prado",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13118",
+            "COMUNA_NOMBRE": "Macul",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13119",
+            "COMUNA_NOMBRE": "Maip\u00fa",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13504",
+            "COMUNA_NOMBRE": "Mar\u00eda Pinto",
+            "COMUNA_PROVINCIA_ID": "135"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "135",
+            "PROVINCIA_NOMBRE": "Melipilla",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13501",
+            "COMUNA_NOMBRE": "Melipilla",
+            "COMUNA_PROVINCIA_ID": "135"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "135",
+            "PROVINCIA_NOMBRE": "Melipilla",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13120",
+            "COMUNA_NOMBRE": "\u00d1u\u00f1oa",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13604",
+            "COMUNA_NOMBRE": "Padre Hurtado",
+            "COMUNA_PROVINCIA_ID": "136"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "136",
+            "PROVINCIA_NOMBRE": "Talagante",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13404",
+            "COMUNA_NOMBRE": "Paine",
+            "COMUNA_PROVINCIA_ID": "134"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "134",
+            "PROVINCIA_NOMBRE": "Maipo",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13121",
+            "COMUNA_NOMBRE": "Pedro Aguirre Cerda",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13605",
+            "COMUNA_NOMBRE": "Pe\u00f1aflor",
+            "COMUNA_PROVINCIA_ID": "136"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "136",
+            "PROVINCIA_NOMBRE": "Talagante",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13122",
+            "COMUNA_NOMBRE": "Pe\u00f1alol\u00e9n",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13202",
+            "COMUNA_NOMBRE": "Pirque",
+            "COMUNA_PROVINCIA_ID": "132"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "132",
+            "PROVINCIA_NOMBRE": "Cordillera",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13123",
+            "COMUNA_NOMBRE": "Providencia",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13124",
+            "COMUNA_NOMBRE": "Pudahuel",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13201",
+            "COMUNA_NOMBRE": "Puente Alto",
+            "COMUNA_PROVINCIA_ID": "132"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "132",
+            "PROVINCIA_NOMBRE": "Cordillera",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13125",
+            "COMUNA_NOMBRE": "Quilicura",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13126",
+            "COMUNA_NOMBRE": "Quinta Normal",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13127",
+            "COMUNA_NOMBRE": "Recoleta",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13128",
+            "COMUNA_NOMBRE": "Renca",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13401",
+            "COMUNA_NOMBRE": "San Bernardo",
+            "COMUNA_PROVINCIA_ID": "134"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "134",
+            "PROVINCIA_NOMBRE": "Maipo",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13129",
+            "COMUNA_NOMBRE": "San Joaqu\u00edn",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13203",
+            "COMUNA_NOMBRE": "San Jos\u00e9 de Maipo",
+            "COMUNA_PROVINCIA_ID": "132"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "132",
+            "PROVINCIA_NOMBRE": "Cordillera",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13130",
+            "COMUNA_NOMBRE": "San Miguel",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13505",
+            "COMUNA_NOMBRE": "San Pedro",
+            "COMUNA_PROVINCIA_ID": "135"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "135",
+            "PROVINCIA_NOMBRE": "Melipilla",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13131",
+            "COMUNA_NOMBRE": "San Ram\u00f3n",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13101",
+            "COMUNA_NOMBRE": "Santiago Centro",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13601",
+            "COMUNA_NOMBRE": "Talagante",
+            "COMUNA_PROVINCIA_ID": "136"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "136",
+            "PROVINCIA_NOMBRE": "Talagante",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13303",
+            "COMUNA_NOMBRE": "Tiltil",
+            "COMUNA_PROVINCIA_ID": "133"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "133",
+            "PROVINCIA_NOMBRE": "Chacabuco",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "13132",
+            "COMUNA_NOMBRE": "Vitacura",
+            "COMUNA_PROVINCIA_ID": "131"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "131",
+            "PROVINCIA_NOMBRE": "Santiago",
+            "PROVINCIA_REGION_ID": "13"
+        }
+    }
+]

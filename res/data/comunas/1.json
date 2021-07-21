@@ -1,0 +1,86 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "1107",
+            "COMUNA_NOMBRE": "Alto Hospicio",
+            "COMUNA_PROVINCIA_ID": "11"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "11",
+            "PROVINCIA_NOMBRE": "Iquique",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1402",
+            "COMUNA_NOMBRE": "Cami\u00f1a",
+            "COMUNA_PROVINCIA_ID": "14"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "14",
+            "PROVINCIA_NOMBRE": "Tamarugal",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1403",
+            "COMUNA_NOMBRE": "Colchane",
+            "COMUNA_PROVINCIA_ID": "14"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "14",
+            "PROVINCIA_NOMBRE": "Tamarugal",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1404",
+            "COMUNA_NOMBRE": "Huara",
+            "COMUNA_PROVINCIA_ID": "14"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "14",
+            "PROVINCIA_NOMBRE": "Tamarugal",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1101",
+            "COMUNA_NOMBRE": "Iquique",
+            "COMUNA_PROVINCIA_ID": "11"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "11",
+            "PROVINCIA_NOMBRE": "Iquique",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1405",
+            "COMUNA_NOMBRE": "Pica",
+            "COMUNA_PROVINCIA_ID": "14"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "14",
+            "PROVINCIA_NOMBRE": "Tamarugal",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "1401",
+            "COMUNA_NOMBRE": "Pozo Almonte",
+            "COMUNA_PROVINCIA_ID": "14"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "14",
+            "PROVINCIA_NOMBRE": "Tamarugal",
+            "PROVINCIA_REGION_ID": "1"
+        }
+    }
+]

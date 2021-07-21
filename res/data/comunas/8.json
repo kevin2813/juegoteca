@@ -1,0 +1,650 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "8314",
+            "COMUNA_NOMBRE": "Alto Biob\u00edo",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8302",
+            "COMUNA_NOMBRE": "Antuco",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8202",
+            "COMUNA_NOMBRE": "Arauco",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8402",
+            "COMUNA_NOMBRE": "Bulnes",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8303",
+            "COMUNA_NOMBRE": "Cabrero",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8203",
+            "COMUNA_NOMBRE": "Ca\u00f1ete",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8103",
+            "COMUNA_NOMBRE": "Chiguayante",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8401",
+            "COMUNA_NOMBRE": "Chill\u00e1n",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8406",
+            "COMUNA_NOMBRE": "Chill\u00e1n Viejo",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8403",
+            "COMUNA_NOMBRE": "Cobquecura",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8404",
+            "COMUNA_NOMBRE": "Coelemu",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8405",
+            "COMUNA_NOMBRE": "Coihueco",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8101",
+            "COMUNA_NOMBRE": "Concepci\u00f3n",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8204",
+            "COMUNA_NOMBRE": "Contulmo",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8102",
+            "COMUNA_NOMBRE": "Coronel",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8205",
+            "COMUNA_NOMBRE": "Curanilahue",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8407",
+            "COMUNA_NOMBRE": "El Carmen",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8104",
+            "COMUNA_NOMBRE": "Florida",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8112",
+            "COMUNA_NOMBRE": "Hualp\u00e9n",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8105",
+            "COMUNA_NOMBRE": "Hualqui",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8304",
+            "COMUNA_NOMBRE": "Laja",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8201",
+            "COMUNA_NOMBRE": "Lebu",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8206",
+            "COMUNA_NOMBRE": "Los \u00c1lamos",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8301",
+            "COMUNA_NOMBRE": "Los \u00c1ngeles",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8106",
+            "COMUNA_NOMBRE": "Lota",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8305",
+            "COMUNA_NOMBRE": "Mulch\u00e9n",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8306",
+            "COMUNA_NOMBRE": "Nacimiento",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8307",
+            "COMUNA_NOMBRE": "Negrete",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8408",
+            "COMUNA_NOMBRE": "Ninhue",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8409",
+            "COMUNA_NOMBRE": "\u00d1iqu\u00e9n",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8410",
+            "COMUNA_NOMBRE": "Pemuco",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8107",
+            "COMUNA_NOMBRE": "Penco",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8411",
+            "COMUNA_NOMBRE": "Pinto",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8412",
+            "COMUNA_NOMBRE": "Portezuelo",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8308",
+            "COMUNA_NOMBRE": "Quilaco",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8309",
+            "COMUNA_NOMBRE": "Quilleco",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8413",
+            "COMUNA_NOMBRE": "Quill\u00f3n",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8414",
+            "COMUNA_NOMBRE": "Quirihue",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8415",
+            "COMUNA_NOMBRE": "R\u00e1nquil",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8416",
+            "COMUNA_NOMBRE": "San Carlos",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8417",
+            "COMUNA_NOMBRE": "San Fabi\u00e1n",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8418",
+            "COMUNA_NOMBRE": "San Ignacio",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8419",
+            "COMUNA_NOMBRE": "San Nicol\u00e1s",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8108",
+            "COMUNA_NOMBRE": "San Pedro de la Paz",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8310",
+            "COMUNA_NOMBRE": "San Rosendo",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8311",
+            "COMUNA_NOMBRE": "Santa B\u00e1rbara",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8109",
+            "COMUNA_NOMBRE": "Santa Juana",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8110",
+            "COMUNA_NOMBRE": "Talcahuano",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8207",
+            "COMUNA_NOMBRE": "Tir\u00faa",
+            "COMUNA_PROVINCIA_ID": "82"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "82",
+            "PROVINCIA_NOMBRE": "Arauco",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8111",
+            "COMUNA_NOMBRE": "Tom\u00e9",
+            "COMUNA_PROVINCIA_ID": "81"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "81",
+            "PROVINCIA_NOMBRE": "Concepci\u00f3n",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8420",
+            "COMUNA_NOMBRE": "Treguaco",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8312",
+            "COMUNA_NOMBRE": "Tucapel",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8313",
+            "COMUNA_NOMBRE": "Yumbel",
+            "COMUNA_PROVINCIA_ID": "83"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "83",
+            "PROVINCIA_NOMBRE": "Biob\u00edo",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "8421",
+            "COMUNA_NOMBRE": "Yungay",
+            "COMUNA_PROVINCIA_ID": "84"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "84",
+            "PROVINCIA_NOMBRE": "\u00d1uble",
+            "PROVINCIA_REGION_ID": "8"
+        }
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "6302",
+            "COMUNA_NOMBRE": "Ch\u00e9pica",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6303",
+            "COMUNA_NOMBRE": "Chimbarongo",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6102",
+            "COMUNA_NOMBRE": "Codegua",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6103",
+            "COMUNA_NOMBRE": "Coinco",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6104",
+            "COMUNA_NOMBRE": "Coltauco",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6105",
+            "COMUNA_NOMBRE": "Do\u00f1ihue",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6106",
+            "COMUNA_NOMBRE": "Graneros",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6202",
+            "COMUNA_NOMBRE": "La Estrella",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6107",
+            "COMUNA_NOMBRE": "Las Cabras",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6203",
+            "COMUNA_NOMBRE": "Litueche",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6304",
+            "COMUNA_NOMBRE": "Lolol",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6108",
+            "COMUNA_NOMBRE": "Machal\u00ed",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6109",
+            "COMUNA_NOMBRE": "Malloa",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6204",
+            "COMUNA_NOMBRE": "Marchihue",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6110",
+            "COMUNA_NOMBRE": "Mostazal",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6305",
+            "COMUNA_NOMBRE": "Nancagua",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6205",
+            "COMUNA_NOMBRE": "Navidad",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6111",
+            "COMUNA_NOMBRE": "Olivar",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6306",
+            "COMUNA_NOMBRE": "Palmilla",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6206",
+            "COMUNA_NOMBRE": "Paredones",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6307",
+            "COMUNA_NOMBRE": "Peralillo",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6112",
+            "COMUNA_NOMBRE": "Peumo",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6113",
+            "COMUNA_NOMBRE": "Pichidegua",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6201",
+            "COMUNA_NOMBRE": "Pichilemu",
+            "COMUNA_PROVINCIA_ID": "62"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "62",
+            "PROVINCIA_NOMBRE": "Cardenal Caro",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6308",
+            "COMUNA_NOMBRE": "Placilla",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6309",
+            "COMUNA_NOMBRE": "Pumanque",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6114",
+            "COMUNA_NOMBRE": "Quinta de Tilcoco",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6101",
+            "COMUNA_NOMBRE": "Rancagua",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6115",
+            "COMUNA_NOMBRE": "Rengo",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6116",
+            "COMUNA_NOMBRE": "Requ\u00ednoa",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6301",
+            "COMUNA_NOMBRE": "San Fernando",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6117",
+            "COMUNA_NOMBRE": "San Vicente",
+            "COMUNA_PROVINCIA_ID": "61"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "61",
+            "PROVINCIA_NOMBRE": "Cachapoal",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "6310",
+            "COMUNA_NOMBRE": "Santa Cruz",
+            "COMUNA_PROVINCIA_ID": "63"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "63",
+            "PROVINCIA_NOMBRE": "Colchagua",
+            "PROVINCIA_REGION_ID": "6"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "11201",
+            "COMUNA_NOMBRE": "Ays\u00e9n",
+            "COMUNA_PROVINCIA_ID": "112"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "112",
+            "PROVINCIA_NOMBRE": "Ais\u00e9n",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11401",
+            "COMUNA_NOMBRE": "Chile Chico",
+            "COMUNA_PROVINCIA_ID": "114"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "114",
+            "PROVINCIA_NOMBRE": "General Carrera",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11202",
+            "COMUNA_NOMBRE": "Cisnes",
+            "COMUNA_PROVINCIA_ID": "112"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "112",
+            "PROVINCIA_NOMBRE": "Ais\u00e9n",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11301",
+            "COMUNA_NOMBRE": "Cochrane",
+            "COMUNA_PROVINCIA_ID": "113"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "113",
+            "PROVINCIA_NOMBRE": "Capit\u00e1n Prat",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11101",
+            "COMUNA_NOMBRE": "Coyhaique",
+            "COMUNA_PROVINCIA_ID": "111"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "111",
+            "PROVINCIA_NOMBRE": "Coihaique",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11203",
+            "COMUNA_NOMBRE": "Guaitecas",
+            "COMUNA_PROVINCIA_ID": "112"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "112",
+            "PROVINCIA_NOMBRE": "Ais\u00e9n",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11102",
+            "COMUNA_NOMBRE": "Lago Verde",
+            "COMUNA_PROVINCIA_ID": "111"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "111",
+            "PROVINCIA_NOMBRE": "Coihaique",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11302",
+            "COMUNA_NOMBRE": "O'Higgins",
+            "COMUNA_PROVINCIA_ID": "113"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "113",
+            "PROVINCIA_NOMBRE": "Capit\u00e1n Prat",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11402",
+            "COMUNA_NOMBRE": "R\u00edo Ib\u00e1\u00f1ez",
+            "COMUNA_PROVINCIA_ID": "114"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "114",
+            "PROVINCIA_NOMBRE": "General Carrera",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "11303",
+            "COMUNA_NOMBRE": "Tortel",
+            "COMUNA_PROVINCIA_ID": "113"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "113",
+            "PROVINCIA_NOMBRE": "Capit\u00e1n Prat",
+            "PROVINCIA_REGION_ID": "11"
+        }
+    }
+]

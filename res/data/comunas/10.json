@@ -1,0 +1,362 @@
+[
+    {
+        "Comuna": {
+            "COMUNA_ID": "10202",
+            "COMUNA_NOMBRE": "Ancud",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10102",
+            "COMUNA_NOMBRE": "Calbuco",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10201",
+            "COMUNA_NOMBRE": "Castro",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10401",
+            "COMUNA_NOMBRE": "Chait\u00e9n",
+            "COMUNA_PROVINCIA_ID": "104"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "104",
+            "PROVINCIA_NOMBRE": "Palena",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10203",
+            "COMUNA_NOMBRE": "Chonchi",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10103",
+            "COMUNA_NOMBRE": "Cocham\u00f3",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10204",
+            "COMUNA_NOMBRE": "Curaco de V\u00e9lez",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10205",
+            "COMUNA_NOMBRE": "Dalcahue",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10104",
+            "COMUNA_NOMBRE": "Fresia",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10105",
+            "COMUNA_NOMBRE": "Frutillar",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10402",
+            "COMUNA_NOMBRE": "Futaleuf\u00fa",
+            "COMUNA_PROVINCIA_ID": "104"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "104",
+            "PROVINCIA_NOMBRE": "Palena",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10403",
+            "COMUNA_NOMBRE": "Hualaihu\u00e9",
+            "COMUNA_PROVINCIA_ID": "104"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "104",
+            "PROVINCIA_NOMBRE": "Palena",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10107",
+            "COMUNA_NOMBRE": "Llanquihue",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10106",
+            "COMUNA_NOMBRE": "Los Muermos",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10108",
+            "COMUNA_NOMBRE": "Maull\u00edn",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10301",
+            "COMUNA_NOMBRE": "Osorno",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10404",
+            "COMUNA_NOMBRE": "Palena",
+            "COMUNA_PROVINCIA_ID": "104"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "104",
+            "PROVINCIA_NOMBRE": "Palena",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10101",
+            "COMUNA_NOMBRE": "Puerto Montt",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10302",
+            "COMUNA_NOMBRE": "Puerto Octay",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10109",
+            "COMUNA_NOMBRE": "Puerto Varas",
+            "COMUNA_PROVINCIA_ID": "101"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "101",
+            "PROVINCIA_NOMBRE": "Llanquihue",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10206",
+            "COMUNA_NOMBRE": "Puqueld\u00f3n",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10303",
+            "COMUNA_NOMBRE": "Purranque",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10304",
+            "COMUNA_NOMBRE": "Puyehue",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10207",
+            "COMUNA_NOMBRE": "Queil\u00e9n",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10208",
+            "COMUNA_NOMBRE": "Quell\u00f3n",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10209",
+            "COMUNA_NOMBRE": "Quemchi",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10210",
+            "COMUNA_NOMBRE": "Quinchao",
+            "COMUNA_PROVINCIA_ID": "102"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "102",
+            "PROVINCIA_NOMBRE": "Chilo\u00e9",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10305",
+            "COMUNA_NOMBRE": "R\u00edo Negro",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10306",
+            "COMUNA_NOMBRE": "San Juan de la Costa",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    },
+    {
+        "Comuna": {
+            "COMUNA_ID": "10307",
+            "COMUNA_NOMBRE": "San Pablo",
+            "COMUNA_PROVINCIA_ID": "103"
+        },
+        "Provincia": {
+            "PROVINCIA_ID": "103",
+            "PROVINCIA_NOMBRE": "Osorno",
+            "PROVINCIA_REGION_ID": "10"
+        }
+    }
+]
