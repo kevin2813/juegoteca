@@ -122,7 +122,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `apodo`, `correo`, `clave`, `rut`, `telefono`, `region`, `comuna`, `direccion`, `fecha`, `fecha_registro`, `tipo`) VALUES
-(1, 'kevin', 'rodriguez', 'Esven', 'kevin.rodast.95@gmail.com', 'test', '188253733', '+56990887141', 15, 15101, 'ramon carnicer poniente 3049', '1995-08-28', '2021-07-14 11:32:09', 'admin'),
+(1, 'kevin', 'rodast', 'Esven', 'kevin.rodast.95@gmail.com', 'test', '188253733', '+9999999', 15, 15101, 'dir 5999', '1995-07-15', '2021-07-14 11:32:09', 'admin'),
 (2, 'test', 'test', 'test-user', 'test@gmail.com', 'test', '123456789', '12312312', 15, 15101, 'test 123', '2021-07-08', '2021-07-15 11:30:24', 'user');
 
 --
